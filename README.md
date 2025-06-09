@@ -18,20 +18,19 @@ There is a strong positive correlation between social media addiction and relati
 Balanced usage of social media could lead to better academic focus and healthier relationships.
 
 📝 Dataset Details
-Student_ID
-Age
-Gender
-Academic_Level
-Country
-Avg_Daily_Usage_Hours
-Most_Used_Platform
-Affects_Academic_Performance
-Sleep_Hours_Per_Night
-Mental_Health_Score
-Relationship_Status
-Conflicts_Over_Social_Media
-Addicted_Score
-
+• Student_ID
+• Age
+• Gender
+• Academic_Level
+• Country
+• Avg_Daily_Usage_Hours
+• Most_Used_Platform
+• Affects_Academic_Performance
+• Sleep_Hours_Per_Night
+• Mental_Health_Score
+• Relationship_Status
+• Conflicts_Over_Social_Media
+• Addicted_Score
 
 🛠️ Tools & Technologies
 SQL (MySQL / PostgreSQL)
